@@ -1,0 +1,6 @@
+framework module ZFFSDK {
+  umbrella header "ZFFSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
